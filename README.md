@@ -45,3 +45,6 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Zöe_Salmon> to <http://dbpedia.org/resource/Zoe_Salmon>
 * <http://dbpedia.org/resource/Anna_María_Pérez_de_Tagle> to <http://dbpedia.org/resource/Anna_Maria_Perez_de_Tagle>
 * <http://dbpedia.org/resource/DNV_GL> to <http://dbpedia.org/resource/DNV>
+* <http://dbpedia.org/resource/Temenos_Group> to <http://dbpedia.org/resource/Temenos_AG>
+* <http://dbpedia.org/resource/Tokushima,_Tokushima> to <http://dbpedia.org/resource/Tokushima_(city)>
+* <http://dbpedia.org/resource/Fallen_Angels_(science_fiction_novel)> to <http://dbpedia.org/resource/Fallen_Angels_(Niven,_Pournelle,_and_Flynn_novel)>

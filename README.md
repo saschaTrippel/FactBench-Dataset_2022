@@ -25,3 +25,7 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Day_Software> to <http://dbpedia.org/resource/Adobe_Inc.>
 * <http://dbpedia.org/resource/Lisa_Spoonhauer> to <http://dbpedia.org/resource/Lisa_Spoonauer>
 * <http://dbpedia.org/resource/SIMULIA> to <http://dbpedia.org/resource/Simulia_(company)>
+* <http://dbpedia.org/resource/Usher_(singer)> to <http://dbpedia.org/resource/Usher_(musician)>
+* <http://dbpedia.org/resource/Thandie_Newton> to <http://dbpedia.org/resource/Thandiwe_Newton>
+* <http://dbpedia.org/resource/Grettell_Valdéz> to <http://dbpedia.org/resource/Grettell_Valdez>
+* <http://dbpedia.org/resource/Strangers_(Gardner_Dozois_novel)> to <http://dbpedia.org/resource/Strangers_(Dozois_novel)>

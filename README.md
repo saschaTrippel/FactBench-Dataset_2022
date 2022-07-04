@@ -52,3 +52,4 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Khamtai_Siphandon> to <http://dbpedia.org/resource/Khamtai_Siphandone>
 * <http://dbpedia.org/resource/Shōgo> to <http://dbpedia.org/resource/Shogo>
 * <http://dbpedia.org/resource/Cisco_Systems> to <http://dbpedia.org/resource/Cisco>
+* <http://dbpedia.org/resource/Junichirō_Koizumi> to <http://dbpedia.org/resource/Junichiro_Koizumi>

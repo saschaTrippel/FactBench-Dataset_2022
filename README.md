@@ -13,3 +13,6 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/TomorrowNow> to <http://dbpedia.org/resource/Oracle_Corp._v._SAP_AG>
 * <http://dbpedia.org/resource/EMC_Corporation> to <http://dbpedia.org/resource/Dell_EMC>
 * <http://dbpedia.org/resource/Adobe_Systems> to <http://dbpedia.org/resource/Adobe_Inc.>
+* <http://dbpedia.org/resource/Superbad_(film)> to <http://dbpedia.org/resource/Superbad>
+* <http://dbpedia.org/resource/Michael_F._Flynn> to <http://dbpedia.org/resource/Michael_Flynn_(writer)>
+* <http://dbpedia.org/resource/Dialogic_Inc.> to <http://dbpedia.org/resource/Dialogic_Corp>

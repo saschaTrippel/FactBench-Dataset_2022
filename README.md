@@ -11,3 +11,5 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Fenghua> to <http://dbpedia.org/resource/Fenghua_District>
 * <http://dbpedia.org/resource/Metta_World_Peace> to <http://dbpedia.org/resource/Metta_Sandiford-Artest>
 * <http://dbpedia.org/resource/TomorrowNow> to <http://dbpedia.org/resource/Oracle_Corp._v._SAP_AG>
+* <http://dbpedia.org/resource/EMC_Corporation> to <http://dbpedia.org/resource/Dell_EMC>
+* <http://dbpedia.org/resource/Adobe_Systems> to <http://dbpedia.org/resource/Adobe_Inc.>

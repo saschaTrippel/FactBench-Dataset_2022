@@ -23,3 +23,5 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/J._J._Redick> to <http://dbpedia.org/resource/JJ_Redick>
 * <http://dbpedia.org/resource/John_Thomas_Sladek> to <http://dbpedia.org/resource/John_Sladek>
 * <http://dbpedia.org/resource/Day_Software> to <http://dbpedia.org/resource/Adobe_Inc.>
+* <http://dbpedia.org/resource/Lisa_Spoonhauer> to <http://dbpedia.org/resource/Lisa_Spoonauer>
+* <http://dbpedia.org/resource/SIMULIA> to <http://dbpedia.org/resource/Simulia_(company)>

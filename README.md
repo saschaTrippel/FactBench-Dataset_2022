@@ -55,3 +55,4 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Junichirō_Koizumi> to <http://dbpedia.org/resource/Junichiro_Koizumi>
 * <http://dbpedia.org/resource/Jay_Z> to <http://dbpedia.org/resource/Jay-Z>
 * <http://dbpedia.org/resource/Mike_Dunleavy,_Jr.> to <http://dbpedia.org/resource/Mike_Dunleavy_Jr.>
+* <http://dbpedia.org/resource/Walter_M._Miller,_Jr.> to <http://dbpedia.org/resource/Walter_M._Miller_Jr.>

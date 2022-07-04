@@ -50,7 +50,6 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Fallen_Angels_(science_fiction_novel)> to <http://dbpedia.org/resource/Fallen_Angels_(Niven,_Pournelle,_and_Flynn_novel)>
 * <http://dbpedia.org/resource/Osachi_Hamaguchi> to <http://dbpedia.org/resource/Hamaguchi_Osachi>
 * <http://dbpedia.org/resource/Khamtai_Siphandon> to <http://dbpedia.org/resource/Khamtai_Siphandone>
-* <http://dbpedia.org/resource/Shōgo> to <http://dbpedia.org/resource/Shogo>
 * <http://dbpedia.org/resource/Cisco_Systems> to <http://dbpedia.org/resource/Cisco>
 * <http://dbpedia.org/resource/Junichirō_Koizumi> to <http://dbpedia.org/resource/Junichiro_Koizumi>
 * <http://dbpedia.org/resource/Jay_Z> to <http://dbpedia.org/resource/Jay-Z>

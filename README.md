@@ -16,3 +16,7 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Superbad_(film)> to <http://dbpedia.org/resource/Superbad>
 * <http://dbpedia.org/resource/Michael_F._Flynn> to <http://dbpedia.org/resource/Michael_Flynn_(writer)>
 * <http://dbpedia.org/resource/Dialogic_Inc.> to <http://dbpedia.org/resource/Dialogic_Corp>
+* <http://dbpedia.org/resource/Mike_Miller_(basketball_player)> to <http://dbpedia.org/resource/Mike_Miller_(basketball,_born_1980)>
+* <http://dbpedia.org/resource/María_Canals_Barrera> to <http://dbpedia.org/resource/Maria_Canals-Barrera>
+* <http://dbpedia.org/resource/Intuit_Canada> to <http://dbpedia.org/resource/Intuit>
+* <http://dbpedia.org/resource/Xero_(software)> to <http://dbpedia.org/resource/Xero_(company)>

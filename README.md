@@ -4,3 +4,4 @@ Updated resources to fit DBpedia 2022
 
 # Updates
 * <http://dbpedia.org/resource/Kill_Bill> to <http://dbpedia.org/resource/Kill_Bill:_Volume_1>
+

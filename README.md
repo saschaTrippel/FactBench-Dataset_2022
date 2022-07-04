@@ -43,3 +43,5 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/The_Clan_Corporate> to <http://dbpedia.org/resource/The_Merchant_Princes>
 * <http://dbpedia.org/resource/The_Scar> to <http://dbpedia.org/resource/The_Scar_(novel)>
 * <http://dbpedia.org/resource/Zöe_Salmon> to <http://dbpedia.org/resource/Zoe_Salmon>
+* <http://dbpedia.org/resource/Anna_María_Pérez_de_Tagle> to <http://dbpedia.org/resource/Anna_Maria_Perez_de_Tagle>
+* <http://dbpedia.org/resource/DNV_GL> to <http://dbpedia.org/resource/DNV>

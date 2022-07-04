@@ -36,3 +36,4 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/BlueLithium> to <http://dbpedia.org/resource/Gurbaksh_Chahal>
 * <http://dbpedia.org/resource/Feodor_Felix_Konrad_Lynen> to <http://dbpedia.org/resource/Feodor_Lynen>
 * <http://dbpedia.org/resource/Michael_Shea_(author)> to <http://dbpedia.org/resource/Michael_Shea_(American_author)>
+* <http://dbpedia.org/resource/Prashanth_(actor)> to <http://dbpedia.org/resource/Prashanth>

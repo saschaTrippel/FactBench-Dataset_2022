@@ -2,6 +2,9 @@ Original Dataset <https://github.com/DeFacto/FactBench>
 
 Updated resources to fit DBpedia 2022
 
+# To removed
+
+
 # Updates
 * <http://dbpedia.org/resource/Kill_Bill> to <http://dbpedia.org/resource/Kill_Bill:_Volume_1>
 
@@ -38,3 +41,5 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Michael_Shea_(author)> to <http://dbpedia.org/resource/Michael_Shea_(American_author)>
 * <http://dbpedia.org/resource/Prashanth_(actor)> to <http://dbpedia.org/resource/Prashanth>
 * <http://dbpedia.org/resource/The_Clan_Corporate> to <http://dbpedia.org/resource/The_Merchant_Princes>
+* <http://dbpedia.org/resource/The_Scar> to <http://dbpedia.org/resource/The_Scar_(novel)>
+* <http://dbpedia.org/resource/Zöe_Salmon> to <http://dbpedia.org/resource/Zoe_Salmon>

@@ -29,3 +29,10 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Thandie_Newton> to <http://dbpedia.org/resource/Thandiwe_Newton>
 * <http://dbpedia.org/resource/Grettell_Valdéz> to <http://dbpedia.org/resource/Grettell_Valdez>
 * <http://dbpedia.org/resource/Strangers_(Gardner_Dozois_novel)> to <http://dbpedia.org/resource/Strangers_(Dozois_novel)>
+* <http://dbpedia.org/resource/G_Data> to <http://dbpedia.org/resource/G_Data_CyberDefense>
+* <http://dbpedia.org/resource/Syntel> to <http://dbpedia.org/resource/Atos_Syntel>
+* <http://dbpedia.org/resource/Jesse_James_(customizer)> to <http://dbpedia.org/resource/Jesse_James_(entrepreneur)>
+* <http://dbpedia.org/resource/SAP_SE> to <http://dbpedia.org/resource/SAP>
+* <http://dbpedia.org/resource/BlueLithium> to <http://dbpedia.org/resource/Gurbaksh_Chahal>
+* <http://dbpedia.org/resource/Feodor_Felix_Konrad_Lynen> to <http://dbpedia.org/resource/Feodor_Lynen>
+* <http://dbpedia.org/resource/Michael_Shea_(author)> to <http://dbpedia.org/resource/Michael_Shea_(American_author)>

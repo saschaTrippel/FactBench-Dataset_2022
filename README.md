@@ -65,3 +65,17 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1068
 * http://swc2017.aksw.org/task2/dataset/fb_property-2948
 * http://swc2017.aksw.org/task2/dataset/fb_property-1572
+
+## <http://dbpedia.org/resource/LogiSense>
+* http://swc2017.aksw.org/task2/dataset/fb_domain-1743
+* http://swc2017.aksw.org/task2/dataset/fb_domain-2309
+* http://swc2017.aksw.org/task2/dataset/fb_domain-3193
+* http://swc2017.aksw.org/task2/dataset/fb_random-1438
+* http://swc2017.aksw.org/task2/dataset/fb_range-2864
+* http://swc2017.aksw.org/task2/dataset/fb_range-1335
+* http://swc2017.aksw.org/task2/dataset/fb_mix-1075
+* http://swc2017.aksw.org/task2/dataset/fb_mix-2360
+* http://swc2017.aksw.org/task2/dataset/fb_mix-2333
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-1419
+* http://swc2017.aksw.org/task2/dataset/fb_property-2323
+* http://swc2017.aksw.org/task2/dataset/fb_property-1063

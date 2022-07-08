@@ -139,3 +139,16 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1403
 * http://swc2017.aksw.org/task2/dataset/fb_property-1323
 * http://swc2017.aksw.org/task2/dataset/fb_property-2431
+
+## <http://dbpedia.org/resource/Mindscape>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1399>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2515>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-2558>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1225>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1791>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-2459>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1059>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-2440>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1489>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2605>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1794>

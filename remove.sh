@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-FILES=$(grep -rl $1)
+FILES=$(grep -rl $1 factbench-clean)
 
 for FILE in $FILES
 do

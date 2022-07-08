@@ -53,5 +53,15 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Mike_Dunleavy,_Jr.> to <http://dbpedia.org/resource/Mike_Dunleavy_Jr.>
 * <http://dbpedia.org/resource/Walter_M._Miller,_Jr.> to <http://dbpedia.org/resource/Walter_M._Miller_Jr.>
 
-# Removed assertions
-
+# Removed
+## <http://dbpedia.org/resource/Geoff_Parry>
+* http://swc2017.aksw.org/task2/dataset/fb_domain-2684
+* http://swc2017.aksw.org/task2/dataset/fb_domain-1885
+* http://swc2017.aksw.org/task2/dataset/fb_random-1369
+* http://swc2017.aksw.org/task2/dataset/fb_range-1249
+* http://swc2017.aksw.org/task2/dataset/fb_mix-1055
+* http://swc2017.aksw.org/task2/dataset/fb_mix-2636
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-2923
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-1068
+* http://swc2017.aksw.org/task2/dataset/fb_property-2948
+* http://swc2017.aksw.org/task2/dataset/fb_property-1572

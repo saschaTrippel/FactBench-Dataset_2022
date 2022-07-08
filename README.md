@@ -163,3 +163,16 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1877>
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2538>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1928>
+
+## <http://dbpedia.org/resource/Stephen_Baxter>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2760>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1059>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1436>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-3238>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1518>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-2934>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1413>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1137>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-3037>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1133>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2966>

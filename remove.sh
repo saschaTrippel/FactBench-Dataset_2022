@@ -2,7 +2,6 @@
 set -e
 ASSERTIONS=$(grep -rh $1 factbench-clean | awk '{ print $1 }')
 
-echo "## $1" >> README.md
 
 for ASSERTION in $ASSERTIONS
 do
@@ -13,6 +12,6 @@ do
 		grep -v $ASSERTION "$FILE-tmp" > $FILES
 		rm "$FILE-tmp"
 	done
-	echo "* $ASSERTION" >> README.md
 done
 
+echo "* $1" >> README.md

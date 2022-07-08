@@ -115,3 +115,17 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1449
 * http://swc2017.aksw.org/task2/dataset/fb_property-1510
 * http://swc2017.aksw.org/task2/dataset/fb_property-2885
+
+## <http://dbpedia.org/resource/Impetus_Technologies>
+* http://swc2017.aksw.org/task2/dataset/fb_domain-1960
+* http://swc2017.aksw.org/task2/dataset/fb_domain-2497
+* http://swc2017.aksw.org/task2/dataset/fb_random-1083
+* http://swc2017.aksw.org/task2/dataset/fb_range-1750
+* http://swc2017.aksw.org/task2/dataset/fb_range-3146
+* http://swc2017.aksw.org/task2/dataset/fb_mix-2737
+* http://swc2017.aksw.org/task2/dataset/fb_mix-1452
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-2822
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-2059
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-2934
+* http://swc2017.aksw.org/task2/dataset/fb_property-2304
+* http://swc2017.aksw.org/task2/dataset/fb_property-1043

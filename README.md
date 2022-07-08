@@ -89,3 +89,16 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_mix-1798
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1754
 * http://swc2017.aksw.org/task2/dataset/fb_property-1825
+
+## <http://dbpedia.org/resource/Symantec>* http://swc2017.aksw.org/task2/dataset/fb_domain-1597
+* http://swc2017.aksw.org/task2/dataset/fb_domain-2499
+* http://swc2017.aksw.org/task2/dataset/fb_domain-2266
+* http://swc2017.aksw.org/task2/dataset/fb_random-2552
+* http://swc2017.aksw.org/task2/dataset/fb_random-1552
+* http://swc2017.aksw.org/task2/dataset/fb_range-1429
+* http://swc2017.aksw.org/task2/dataset/fb_range-2282
+* http://swc2017.aksw.org/task2/dataset/fb_mix-3133
+* http://swc2017.aksw.org/task2/dataset/fb_mix-2090
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-1963
+* http://swc2017.aksw.org/task2/dataset/fb_property-1844
+* http://swc2017.aksw.org/task2/dataset/fb_property-3096

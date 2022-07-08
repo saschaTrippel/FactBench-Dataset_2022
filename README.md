@@ -2,9 +2,6 @@ Original Dataset <https://github.com/DeFacto/FactBench>
 
 Updated resources to fit DBpedia 2022
 
-# To removed
-
-
 # Updates
 * <http://dbpedia.org/resource/Kill_Bill> to <http://dbpedia.org/resource/Kill_Bill:_Volume_1>
 
@@ -55,3 +52,6 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Jay_Z> to <http://dbpedia.org/resource/Jay-Z>
 * <http://dbpedia.org/resource/Mike_Dunleavy,_Jr.> to <http://dbpedia.org/resource/Mike_Dunleavy_Jr.>
 * <http://dbpedia.org/resource/Walter_M._Miller,_Jr.> to <http://dbpedia.org/resource/Walter_M._Miller_Jr.>
+
+# Removed assertions
+

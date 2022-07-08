@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 FILES=$(grep -rl $1)
 
@@ -8,3 +9,5 @@ do
 	grep -v $1 "$FILE-tmp" > $FILE
 	rm "$FILE-tmp"
 done
+
+echo "* $1" >> README.md

@@ -1,13 +1,17 @@
 #!/bin/bash
 set -e
+ASSERTIONS=$(grep -rh $1 factbench-clean | awk '{ print $1 }')
 
-FILES=$(grep -rl $1 factbench-clean)
 
-for FILE in $FILES
+for ASSERTION in $ASSERTIONS
 do
-	mv $FILE "$FILE-tmp"
-	grep -v $1 "$FILE-tmp" > $FILE
-	rm "$FILE-tmp"
+	FILES=$(grep -rl $ASSERTION factbench-clean)
+	for FILE in $FILES
+	do
+		mv $FILE "$FILE-tmp"
+		grep -v $ASSERTION "$FILE-tmp" > $FILES
+		rm "$FILE-tmp"
+	done
 done
 
 echo "* $1" >> README.md

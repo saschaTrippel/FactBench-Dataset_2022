@@ -176,3 +176,15 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-3037>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1133>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2966>
+
+## <http://dbpedia.org/resource/The_Wind_from_Nowhere>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2188>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1244>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1483>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1377>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-2079>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-2166>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2224>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1323>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2374>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1100>

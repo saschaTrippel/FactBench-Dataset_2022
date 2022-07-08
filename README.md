@@ -152,3 +152,14 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1489>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2605>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1794>
+
+## <http://dbpedia.org/resource/EGroups>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2899>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2076>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1739>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1678>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1656>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-2695>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1877>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2538>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1928>

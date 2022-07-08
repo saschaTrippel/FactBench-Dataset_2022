@@ -139,3 +139,4 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1403
 * http://swc2017.aksw.org/task2/dataset/fb_property-1323
 * http://swc2017.aksw.org/task2/dataset/fb_property-2431
+* <http://dbpedia.org/resource/Mindscape>

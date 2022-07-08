@@ -129,3 +129,13 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-2934
 * http://swc2017.aksw.org/task2/dataset/fb_property-2304
 * http://swc2017.aksw.org/task2/dataset/fb_property-1043
+* http://swc2017.aksw.org/task2/dataset/fb_domain-1310
+* http://swc2017.aksw.org/task2/dataset/fb_random-1484
+* http://swc2017.aksw.org/task2/dataset/fb_random-2349
+* http://swc2017.aksw.org/task2/dataset/fb_range-2678
+* http://swc2017.aksw.org/task2/dataset/fb_range-1631
+* http://swc2017.aksw.org/task2/dataset/fb_mix-1823
+* http://swc2017.aksw.org/task2/dataset/fb_mix-2232
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-1403
+* http://swc2017.aksw.org/task2/dataset/fb_property-1323
+* http://swc2017.aksw.org/task2/dataset/fb_property-2431

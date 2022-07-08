@@ -90,7 +90,8 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1754
 * http://swc2017.aksw.org/task2/dataset/fb_property-1825
 
-## <http://dbpedia.org/resource/Symantec>* http://swc2017.aksw.org/task2/dataset/fb_domain-1597
+## <http://dbpedia.org/resource/Symantec>
+* http://swc2017.aksw.org/task2/dataset/fb_domain-1597
 * http://swc2017.aksw.org/task2/dataset/fb_domain-2499
 * http://swc2017.aksw.org/task2/dataset/fb_domain-2266
 * http://swc2017.aksw.org/task2/dataset/fb_random-2552
@@ -102,3 +103,15 @@ Updated resources to fit DBpedia 2022
 * http://swc2017.aksw.org/task2/dataset/fb_domainrange-1963
 * http://swc2017.aksw.org/task2/dataset/fb_property-1844
 * http://swc2017.aksw.org/task2/dataset/fb_property-3096
+
+## <http://dbpedia.org/resource/NetQoS>
+
+* http://swc2017.aksw.org/task2/dataset/fb_domain-1707
+* http://swc2017.aksw.org/task2/dataset/fb_random-2252
+* http://swc2017.aksw.org/task2/dataset/fb_random-1100
+* http://swc2017.aksw.org/task2/dataset/fb_range-2330
+* http://swc2017.aksw.org/task2/dataset/fb_range-1777
+* http://swc2017.aksw.org/task2/dataset/fb_mix-1870
+* http://swc2017.aksw.org/task2/dataset/fb_domainrange-1449
+* http://swc2017.aksw.org/task2/dataset/fb_property-1510
+* http://swc2017.aksw.org/task2/dataset/fb_property-2885

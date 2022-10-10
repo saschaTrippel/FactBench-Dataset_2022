@@ -52,6 +52,7 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Jay_Z> to <http://dbpedia.org/resource/Jay-Z>
 * <http://dbpedia.org/resource/Mike_Dunleavy,_Jr.> to <http://dbpedia.org/resource/Mike_Dunleavy_Jr.>
 * <http://dbpedia.org/resource/Walter_M._Miller,_Jr.> to <http://dbpedia.org/resource/Walter_M._Miller_Jr.>
+* <http://dbpedia.org/resource/Blind_Lake> to <http://dbpedia.org/resource/Blind_Lake_(novel)>
 
 # Removed
 ## <http://dbpedia.org/resource/Geoff_Parry>
@@ -188,6 +189,7 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1323>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2374>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1100>
+
 ## http://dbpedia.org/resource/Maggie_d'Abo
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-1694>
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-3103>
@@ -200,6 +202,7 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2575>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2424>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1961>
+
 ## http://dbpedia.org/resource/SNP_Schneider-Neureither_&_Partner_AG
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-2175>
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-1975>
@@ -211,6 +214,7 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2039>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1330>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2523>
+
 ## http://dbpedia.org/resource/OpenLink_Software
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-1342>
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-2126>
@@ -222,4 +226,4 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1565>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2685>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1697>
-* <http://dbpedia.org/resource/Blind_Lake> to <http://dbpedia.org/resource/Blind_Lake_(novel)>
+

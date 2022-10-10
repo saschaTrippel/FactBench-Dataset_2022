@@ -188,3 +188,15 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1323>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2374>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1100>
+## http://dbpedia.org/resource/Maggie_d'Abo
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1694>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-3103>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1742>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-3045>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-2719>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1261>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1516>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1287>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2575>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2424>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1961>

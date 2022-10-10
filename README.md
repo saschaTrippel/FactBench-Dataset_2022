@@ -222,3 +222,4 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1565>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2685>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1697>
+* <http://dbpedia.org/resource/Blind_Lake> to <http://dbpedia.org/resource/Blind_Lake_(novel)>

@@ -211,3 +211,14 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2039>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1330>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2523>
+## http://dbpedia.org/resource/OpenLink_Software
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1342>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2126>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1794>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-2594>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1355>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-2167>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1258>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1565>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2685>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1697>

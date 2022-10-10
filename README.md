@@ -229,3 +229,13 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1697>
 
 
+## http://dbpedia.org/resource/TechExcel
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1408>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1881>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-3129>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1046>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1124>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1675>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-3071>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2049>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2287>

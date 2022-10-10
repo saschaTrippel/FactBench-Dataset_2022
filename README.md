@@ -53,6 +53,7 @@ Updated resources to fit DBpedia 2022
 * <http://dbpedia.org/resource/Mike_Dunleavy,_Jr.> to <http://dbpedia.org/resource/Mike_Dunleavy_Jr.>
 * <http://dbpedia.org/resource/Walter_M._Miller,_Jr.> to <http://dbpedia.org/resource/Walter_M._Miller_Jr.>
 * <http://dbpedia.org/resource/Blind_Lake> to <http://dbpedia.org/resource/Blind_Lake_(novel)>
+* <http://dbpedia.org/resource/Whit> to <http://dbpedia.org/resource/Whit_(novel)>
 
 # Removed
 ## <http://dbpedia.org/resource/Geoff_Parry>
@@ -226,4 +227,5 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1565>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2685>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1697>
+
 

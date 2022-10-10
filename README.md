@@ -239,3 +239,16 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-3071>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2049>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2287>
+## http://dbpedia.org/resource/Shōgo
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2638>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1019>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1518>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-2247>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-2406>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1762>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1014>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2186>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2418>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-1214>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-3001>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2051>

@@ -200,3 +200,14 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2575>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2424>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-1961>
+## http://dbpedia.org/resource/SNP_Schneider-Neureither_&_Partner_AG
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-2175>
+* <http://swc2017.aksw.org/task2/dataset/fb_domain-1975>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-2135>
+* <http://swc2017.aksw.org/task2/dataset/fb_random-1119>
+* <http://swc2017.aksw.org/task2/dataset/fb_range-1444>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-1033>
+* <http://swc2017.aksw.org/task2/dataset/fb_mix-3129>
+* <http://swc2017.aksw.org/task2/dataset/fb_domainrange-2039>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-1330>
+* <http://swc2017.aksw.org/task2/dataset/fb_property-2523>

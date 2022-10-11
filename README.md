@@ -2,6 +2,10 @@ Original Dataset <https://github.com/DeFacto/FactBench>
 
 Updated resources to fit DBpedia 2022
 
+* `factbench` contains all assertions that are part of the original dataset, resources that have been moved are updated.
+* `factbench-clean` is a subset of `factbench` assertions that contain resources that do not exist in the DBpedia 2022 dump have been removed.\
+See removed assertions below.
+
 # Updates
 * <http://dbpedia.org/resource/Kill_Bill> to <http://dbpedia.org/resource/Kill_Bill:_Volume_1>
 
@@ -239,6 +243,7 @@ Updated resources to fit DBpedia 2022
 * <http://swc2017.aksw.org/task2/dataset/fb_domainrange-3071>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2049>
 * <http://swc2017.aksw.org/task2/dataset/fb_property-2287>
+
 ## http://dbpedia.org/resource/Shōgo
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-2638>
 * <http://swc2017.aksw.org/task2/dataset/fb_domain-1019>

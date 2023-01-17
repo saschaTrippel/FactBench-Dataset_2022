@@ -1,9 +1,10 @@
 Original Dataset <https://github.com/DeFacto/FactBench>
 
-Updated resources to fit DBpedia 2022
+Updated resources to fit DBpedia 2022-03
 
 * `factbench` contains all assertions that are part of the original dataset, resources that have been moved are updated.
-* `factbench-clean` is a subset of `factbench` assertions that contain resources that do not exist in the DBpedia 2022 dump have been removed.\
+* `factbench-clean` is a subset of `factbench` \
+Assertions that contain resources that do not exist in the DBpedia 2022-03 dump have been removed.\
 See removed assertions below.
 
 # Updates
@@ -59,7 +60,7 @@ See removed assertions below.
 * <http://dbpedia.org/resource/Blind_Lake> to <http://dbpedia.org/resource/Blind_Lake_(novel)>
 * <http://dbpedia.org/resource/Whit> to <http://dbpedia.org/resource/Whit_(novel)>
 
-# Removed
+# Removed in factbench-clean
 ## <http://dbpedia.org/resource/Geoff_Parry>
 * http://swc2017.aksw.org/task2/dataset/fb_domain-2684
 * http://swc2017.aksw.org/task2/dataset/fb_domain-1885
